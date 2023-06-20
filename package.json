@@ -1,0 +1,19 @@
+{
+  "name": "telegram_bot",
+  "version": "1.0.0",
+  "description": "Source code for a telegram bot built with nodejs and firestore",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rene0115/Telegram-Bot.git"
+  },
+  "author": "Rene0115",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rene0115/Telegram-Bot/issues"
+  },
+  "homepage": "https://github.com/Rene0115/Telegram-Bot#readme"
+}
